@@ -54,8 +54,29 @@
   
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishwar-bhati&show_icons=true&locale=en&layout=compact" alt="ishwar-bhati" /></p>
+<!-- Most Used Languages -->
+<p>
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ishwar-bhati&show_icons=true&locale=en&layout=compact" 
+    alt="Ishwar Bhati's Most Used Languages" 
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishwar-bhati&show_icons=true&locale=en" alt="ishwar-bhati" /></p>
+<!-- GitHub Stats -->
+<p>
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=ishwar-bhati&show_icons=true&locale=en" 
+    alt="Ishwar Bhati's GitHub Stats" 
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishwar-bhati&" alt="ishwar-bhati" /></p>
+<!-- Streak Stats -->
+<p>
+  <img 
+    align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ishwar-bhati" 
+    alt="Ishwar Bhati's Streak Stats" 
+  />
+</p>
