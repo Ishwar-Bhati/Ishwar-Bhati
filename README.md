@@ -22,6 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<div class="col-lg-12">
 <p align="left">
   
   
@@ -53,7 +54,7 @@
   
   
   </p>
-
+</div>
 <!-- Most Used Languages -->
 <p>
   <img 
