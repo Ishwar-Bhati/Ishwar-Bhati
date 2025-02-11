@@ -7,8 +7,7 @@
   {   
     float:left;
     }
-       
-</style>
+</style> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwar-bhati&label=Profile%20views&color=0e75b6&style=flat" alt="ishwar-bhati" /> </p>
 <!-- #Hello -->
 - 🔭 I’m currently working on [College Website](https://www.ecajmer.ac.in/MeetTheTeam)
