@@ -55,7 +55,6 @@
   
   </p>
 </p>
-<!-- Most Used Languages -->
 <p>
   <img 
     align="left" 
