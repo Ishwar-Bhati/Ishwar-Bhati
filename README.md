@@ -32,7 +32,6 @@
   />
 </p>
 
-<!-- GitHub Stats -->
 <p>
   <img 
     align="center" 
