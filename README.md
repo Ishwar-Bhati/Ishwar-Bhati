@@ -41,7 +41,7 @@
   />
 </p>
 
-<!-- Streak Stats -->
+
 <p>
   <img 
     align="center" 
