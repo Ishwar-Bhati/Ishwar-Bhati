@@ -1,5 +1,5 @@
 ![logo](https://github.com/Ishwar-Bhati/Ishwar-Bhati/blob/main/ishwar%20copy.png)
-<h1 align="center">Hi 👋, I'm Ishwar Bhati</h1>
+<h1 align="center">Hi 👋, I'm Ishwar Bhati</h1> 
 <h3 align="center">A Passionate Software Engineer From India.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwar-bhati&label=Profile%20views&color=0e75b6&style=flat" alt="ishwar-bhati" /> </p>
