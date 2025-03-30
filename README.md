@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwar-bhati&label=Profile%20views&color=0e75b6&style=flat" alt="ishwar-bhati" /> </p>
 - 🔭 I’m currently working on [College Website](https://www.ecajmer.ac.in/MeetTheTeam)
 
-- 🌱 I’m currently learning **React.js, Express.js, Node.js, etc.**
+- 🌱 I’m currently learning **React.js, Express.js, Node.js, etc.** 
 
 - 💬 Ask me about **C, C++, HTML, CSS, JAVASCRIPT, PHP, etc.**
 
